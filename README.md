@@ -1,6 +1,6 @@
 ![I am jonayet-nur](https://github.com/jonayet-nur/jonayet-nur/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Jonayt Nur(Tanjim)</h1>
+<h1 align="center">Hi 👋, I'm Jonayet Nur(Tanjim)</h1>
 <h3 align="center">Programmer </h3>
 
 
@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=jonayet-nur&color=red)
 
-Skills:  Java / PYTHON/  JS / HTML / CSS
+Skills:  HTML / CSS
 
 </div>
 
@@ -19,7 +19,7 @@ Skills:  Java / PYTHON/  JS / HTML / CSS
 
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap**
 
 
 
