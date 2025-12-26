@@ -12,9 +12,6 @@ Skills:  HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/jonayet-nur](https://github.com/jonayet-nur)
 
 
