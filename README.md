@@ -1,4 +1,4 @@
-![I am jonayet-nur](https://github.com/jonayet-nur/jonayet-nur//github/Github.jpg)
+![I am jonayet-nur](https://github.com/jonayet-nur/jonayet-nur/blob/github/Github.jpg)
 )
 
 <h1 align="center">Hi 👋, I'm Jonayet Nur(Tanjim)</h1>
