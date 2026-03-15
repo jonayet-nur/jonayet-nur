@@ -29,9 +29,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JonayetNurTanjim&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jonayet-nur&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonayetNurTanjim&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonayet-nur&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -40,7 +40,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=JonayetNurTanjim&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jonayet-nur&theme=tokyonight"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JonayetNurTanjim&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jonayet-nur&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -80,9 +80,6 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JonayetNurTanjim&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jonayet-nur&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
-
-⭐ From [JonayetNur](https://github.com/jonayet-nur)
