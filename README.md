@@ -44,7 +44,13 @@
 </p>
 
 ---
+## 👀 Profile Visitors
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jonayet-nur&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -65,7 +71,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/jonayet-nur-tanjim/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -76,10 +82,3 @@
 </p>
 
 ---
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jonayet-nur&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
