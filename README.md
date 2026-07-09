@@ -1,3 +1,10 @@
+<!-- <img width="954" height="335" alt="image" src="https://github.com/user-attachments/assets/923de169-a8eb-4a56-9898-afa8dcb864f8" /> -->
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/923de169-a8eb-4a56-9898-afa8dcb864f8"type=waving&color=0:0a0e1a,50:0d1b2e,100:0a0e1a&height=220&section=header&text=Jonayet%20Nur&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" width="954"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Jonayet Nur</h1>
 
 <h3 align="center">Frontend Developer | JavaScript & React Learner</h3>
